@@ -1,0 +1,17 @@
+{
+  "name": "ng-observer-and-shared-service",
+  "description": "Simple POC to demo shared service and observer pattern in angularjs app",
+  "main": "app.js",
+  "authors": [
+    "Surya"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/itzmesurya/ng-observer-and-shared-service",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

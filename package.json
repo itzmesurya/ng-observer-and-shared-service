@@ -1,0 +1,19 @@
+{
+  "name": "ng-observer-and-shared-service",
+  "version": "1.0.0",
+  "description": "Simple POC to demo shared service and observer pattern in angularjs app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itzmesurya/ng-observer-and-shared-service.git"
+  },
+  "author": "Surya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/itzmesurya/ng-observer-and-shared-service/issues"
+  },
+  "homepage": "https://github.com/itzmesurya/ng-observer-and-shared-service#readme"
+}
